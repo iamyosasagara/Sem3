@@ -1,0 +1,17 @@
+belajar github
+
+1. git config --global user.name "iamyosasagara" 
+   git config --global user.email "sagara.yosa22@gmail.com"
+untuk check status git config --list
+
+2. buat Direktori di linux
+3. buat repositori di github
+4. git add* 
+5. git add (namafile)
+untuk check status yg dikirim git status
+6. git commit -m "upload pertama"
+memberkan status pada file di github
+7. git remote add (namafile) https://github.com/iamyosasagara/StrukturData.git
+8. git pull (namafile) master
+9. git pull (namafile) master
+
