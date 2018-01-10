@@ -11,7 +11,7 @@ untuk check status git config --list
 untuk check status yg dikirim git status
 6. git commit -m "upload pertama"
 memberkan status pada file di github
-7. git remote add (namafile) https://github.com/iamyosasagara/StrukturData.git
+7. git remote add (namafile) https://github.com/iamyosasagara/Sem3.git
 8. git pull (namafile) master
-9. git pull (namafile) master
+9. git push (namafile) master
 
